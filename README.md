@@ -79,6 +79,9 @@ Observe the square-wave output and verify the generated frequency.
 Adjust the potentiometer and note the corresponding change in output frequency.
 
 **Output**
+
+
+<img width="1376" height="875" alt="image" src="https://github.com/user-attachments/assets/11949934-b74c-4ddd-a437-ec39236b1c2a" />
 	
 	
 
